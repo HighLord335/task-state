@@ -38,7 +38,7 @@ img{width:40px;margin-left:20px;}
 	 left: 0;
 }
  .text-content:after {
-	 content: ']';;
+	 content: ']';
 	 right: 0;
 }
 
