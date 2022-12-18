@@ -12,6 +12,8 @@ body {
     transition: all 1s;
     height: 100vh;
     background:#fff;	
+    align-items: center;
+	justify-items: start;		
   }
 img{width:35px;margin-left:20px;}
 
